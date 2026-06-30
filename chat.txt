@@ -1,0 +1,14 @@
+AI Chat Documentation
+
+Project AI Chat Link:
+https://chatgpt.com/share/6a443506-a264-83ea-b4d1-1bad02f2e55c
+
+This chat was used to assist with:
+- Data cleaning
+- Exploratory data analysis (EDA)
+- Regression model development
+- Polynomial Regression
+- Ridge Regression
+- Hyperparameter tuning
+- Model interpretation
+- Final project conclusions
